@@ -10,6 +10,7 @@
   <img align="center" alt="Aayush's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
+</br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AadumKhor.AadumKhor)
 [![GitHub followers](https://img.shields.io/github/followers/AadumKhor.svg?style=social&label=Follow)](https://github.com/AadumKhor?tab=followers)
